@@ -5,11 +5,11 @@ Main code: final_proj.py
 ### Step1: get API keys for Yelp Fusio and Google Maps Place  
 * #### Yelp Fusion API Key:
   * Go to "https://www.yelp.com/developers/documentation/v3/authentication" and generate app and get API key.
-  * Key is included in the main code
+  * Key is already included in the main code
   * Assign to YelpApiKey in the final_proj.py
 * #### Google Maps Place: Please see the final report to find the api key and use it
   * Go to "https://developers.google.com/maps/documentation/places/web-service/get-api-key" to get API key, it may take up to 48 hours
-  * Please find my key in the final project report
+  * or Please find my key in the final project report
   * Assign it to googleApiKey in the final_proj.py
  _____________
  
