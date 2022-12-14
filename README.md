@@ -21,7 +21,7 @@ Main code: final_proj.py
   * matplotlib
   * mplcursors
   * webbrowser
-
+---------------
 ### Step3: Run final_proj.py
   * The program will ask you a city (eg. Chicago) you want to find restaurants and foodtype you want to eat(eg. American)
   * Then it will find restaurants on Yelp and search and match with google to give you recommendation
