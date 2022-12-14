@@ -1,6 +1,6 @@
 # SI507 Final Project
 
-Main code: final_proj.py
+Main code: final_proj_submission.py
 
 ### Step1: get API keys for Yelp Fusio and Google Maps Place  
 * #### Yelp Fusion API Key:
@@ -22,7 +22,7 @@ Main code: final_proj.py
   * mplcursors
   * webbrowser
 ---------------
-### Step3: Run final_proj.py
+### Step3: Run final_proj_submission.py
   * The program will ask you a city (eg. Chicago) you want to find restaurants and foodtype you want to eat(eg. American)
   * Then it will find restaurants on Yelp and search and match with google to give you recommendation
   * Recommend criteria:
