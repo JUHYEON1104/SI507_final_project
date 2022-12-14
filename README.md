@@ -1,4 +1,4 @@
-# SI507_final_project
+# SI507 Final Project
 
 Main code: final_proj.py
 
