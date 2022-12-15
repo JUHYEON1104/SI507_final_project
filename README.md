@@ -32,5 +32,9 @@ Main code: final_proj_submission.py
   * The program will show the distributino and suggestions
   * You will select the restaurant to check whether on Yelp or Google
   * The code will automacically open the restaurant page
+ ------------
+ ### Data Structure
+ ![initial](https://user-images.githubusercontent.com/45179525/207829757-e3cad696-21b6-4974-96ef-ac8c0209d550.png)
+  
  
  
